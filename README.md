@@ -1,1 +1,1 @@
-# AlmabetterProjects
+# Analyse the given Hotel Booking Dataset to understand the pattern of booking tendencies shown by customers .What is the booking ratio between resort and city hotel ?Which is the year and the month having most number of bookings? How much of the customers the hotels gets from which segment? The agents who performed best and should be encouraged and rewarded. What is the ratio of repeat customer  to one time customer? etc.
